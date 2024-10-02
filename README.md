@@ -35,7 +35,7 @@ Le script principal `import.py` effectue les opérations suivantes :
 
 3. Installez les dépendances :
    ```
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Utilisation
