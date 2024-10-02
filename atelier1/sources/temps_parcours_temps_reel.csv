@@ -1,0 +1,17 @@
+﻿GID;IDENT;LIBELLE;ACTUEL;REF;CDATE;MDATE
+1;20;Boulevards: Rond point JJBosc à la Barrière Ornano;900;816;2011-06-09;2024-10-01T16:30:00+02:00
+2;21;Boulevards: Barrière Ornano à la Place Latule;900;1107;2011-06-09;2024-10-01T16:30:00+02:00
+3;22;Boulevards: Place Latule à la Barrière Ornano;990;1031;2011-06-09;2024-10-01T16:30:00+02:00
+4;23;Boulevards: Barrière Ornano au Rond point JJBosc;990;1335;2011-06-09;2024-10-01T16:30:00+02:00
+5;24;Quais: Rond point JJBosc à la Place Latule;960;1077;2011-06-09;2024-10-01T16:30:00+02:00
+6;25;Quais: Place Latule à Rond point JJBosc;1080;1173;2011-06-09;2024-10-01T16:30:00+02:00
+7;26;Cours: Pont Saint Jean à la rue Lucien Faure via la Victoire et Gambetta;1380;1438;2011-06-09;2024-10-01T16:30:00+02:00
+8;27;Cours: Rue Lucien Faure au Pont Saint Jean via la Victoire et Gambetta;1440;1426;2011-06-09;2024-10-01T16:30:00+02:00
+9;28;Thiers : Pont de Pierre à la Mairie de Cenon;540;519;2011-06-09;2024-10-01T16:30:00+02:00
+10;29;Thiers : Mairie de Cenon au Pont de Pierre;540;524;2011-06-09;2024-10-01T16:30:00+02:00
+11;30;Joliot Curie : Pont Saint Jean à Avenue Thiers;240;219;2011-06-09;2024-10-01T16:30:00+02:00
+12;31;Joliot Curie : Avenue Thiers au Pont Saint Jean;240;234;2011-06-09;2024-10-01T16:30:00+02:00
+13;32;Aliénor: Place Latule à la Rocade;420;126;2011-06-09;2024-10-01T16:30:00+02:00
+14;33;Aliénor: Rocade à la Place Latule;300;115;2011-06-09;2024-10-01T16:30:00+02:00
+15;34;4 pavillons : Mairie de Cenon à la Rocade;300;122;2011-06-09;2024-10-01T16:30:00+02:00
+16;35;4 pavillons : Rocade à la Mairie de Cenon;240;186;2011-06-09;2024-10-01T16:30:00+02:00

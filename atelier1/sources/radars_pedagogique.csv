@@ -1,0 +1,56 @@
+﻿Geo Point;Geo Shape;gid;﻿numéro de série;adresse;type de Pose;Quartier;remontée automatique de donnée;cdate;mdate
+44.84657, -0.5440499;"{""coordinates"": [-0.5440499, 44.84657], ""type"": ""Point""}";5;18H2024;30 cité Petit Cardinal bordeaux;MASSIF;La Bastide;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.82742, -0.59334;"{""coordinates"": [-0.59334, 44.82742], ""type"": ""Point""}";6;18H2150;3 rue Léo Saignat bordeaux;MAT_EXISTANT;saint augustin;False;2022-09-23T16:53:53+02:00;2023-02-10T17:16:50+01:00
+44.82816, -0.58936;"{""coordinates"": [-0.58936, 44.82816], ""type"": ""Point""}";12;Pas accessible;186 rue du Tondu bordeaux;MAT_EXISTANT;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.84114, -0.5880099;"{""coordinates"": [-0.5880099, 44.84114], ""type"": ""Point""}";16;16H2047;121 rue Judaïque bordeaux;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8610362, -0.5742859;"{""coordinates"": [-0.5742859, 44.8610362], ""type"": ""Point""}";18;17H2074;Rue Pierre Chareau;MASSIF;Chartrons - Grand Parc - Jardin Public;False;2022-09-23T16:53:53+02:00;2023-02-07T15:51:20+01:00
+44.840257, -0.546356;"{""coordinates"": [-0.546356, 44.840257], ""type"": ""Point""}";23;20H2111;29 boulevard Ludovic Trarieux;MASSIF;La Bastide;True;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.81261, -0.5717199;"{""coordinates"": [-0.5717199, 44.81261], ""type"": ""Point""}";30;18H2186;41 rue Louis Cabié bordeaux;MAT_EXISTANT;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.82378, -0.5631999;"{""coordinates"": [-0.5631999, 44.82378], ""type"": ""Point""}";32;20H2053;97 rue Billaudel bordeaux;MASSIF;Centre ville;True;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8393834, -0.6093228;"{""coordinates"": [-0.6093228, 44.8393834], ""type"": ""Point""}";42;15Hxxx2;176 av de la république;MAT_EXISTANT;Caudéran;False;2023-02-07T12:56:40+01:00;2023-02-07T13:00:19+01:00
+44.8577163, -0.6073043;"{""coordinates"": [-0.6073043, 44.8577163], ""type"": ""Point""}";45;15Hxxx3;89 rue du Vélodrome;MAT_EXISTANT;Caudéran;False;2023-02-07T13:04:12+01:00;2023-02-07T13:04:12+01:00
+44.8491021, -0.5998964;"{""coordinates"": [-0.5998964, 44.8491021], ""type"": ""Point""}";46;22H4210;44 av Charles de Gaulle;MAT_EXISTANT;Caudéran;False;2023-02-07T13:08:25+01:00;2023-07-03T19:34:22+02:00
+44.8405003, -0.5886629;"{""coordinates"": [-0.5886629, 44.8405003], ""type"": ""Point""}";49;22Hxxx8;40 rue Nauville;MASSIF;centre ville;False;2023-02-07T15:15:40+01:00;2023-02-07T15:15:40+01:00
+44.8336325, -0.6060032;"{""coordinates"": [-0.6060032, 44.8336325], ""type"": ""Point""}";52;21Hxxx1;27 rue Cardinal Lavignerie;MASSIF;saint augustin;False;2023-02-07T15:24:01+01:00;2023-02-07T15:24:01+01:00
+44.8243125, -0.5954516;"{""coordinates"": [-0.5954516, 44.8243125], ""type"": ""Point""}";53;22Hxx10;12 rue Campeyraud;MASSIF;saint augustin;False;2023-02-07T15:29:48+01:00;2023-02-07T15:29:48+01:00
+44.825273, -0.583854;"{""coordinates"": [-0.583854, 44.825273], ""type"": ""Point""}";56;22Hxxx6;37 rue des Treils;MASSIF;Nansouty;False;2023-02-07T15:35:14+01:00;2023-02-07T15:35:14+01:00
+44.8269726, -0.5615031;"{""coordinates"": [-0.5615031, 44.8269726], ""type"": ""Point""}";57;22Hxxx3;32 rue Malbec;MASSIF;bordeaux sud;False;2023-02-07T15:38:26+01:00;2023-02-07T15:38:56+01:00
+44.851013, -0.5774457;"{""coordinates"": [-0.5774457, 44.851013], ""type"": ""Point""}";58;16Hxxx2;rue de la Course;MAT_EXISTANT;grand parc;False;2023-02-07T16:01:17+01:00;2023-02-07T16:01:17+01:00
+44.851929, -0.5786442;"{""coordinates"": [-0.5786442, 44.851929], ""type"": ""Point""}";59;16Hxxx1;30 rue Mandron;MAT_EXISTANT;grand parc;False;2023-02-07T16:04:57+01:00;2023-02-07T16:04:57+01:00
+44.8194555, -0.5734422;"{""coordinates"": [-0.5734422, 44.8194555], ""type"": ""Point""}";10;20H4067;19 rue Eugène Ténot bordeaux;MAT_EXISTANT;Centre ville;True;2022-09-23T16:53:53+02:00;2023-07-03T19:19:24+02:00
+44.8465547, -0.595134;"{""coordinates"": [-0.595134, 44.8465547], ""type"": ""Point""}";15;16H2045;14 rue de la renaissance bordeaux;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2023-02-06T18:32:22+01:00
+44.84068, -0.59505;"{""coordinates"": [-0.59505, 44.84068], ""type"": ""Point""}";17;20H2109;205 rue Judaique bordeaux;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2023-07-03T19:33:39+02:00
+44.84083, -0.5494299;"{""coordinates"": [-0.5494299, 44.84083], ""type"": ""Point""}";19;17H2108;189 rue de la benauge bordeaux;MASSIF;La Bastide;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8205979, -0.5753106;"{""coordinates"": [-0.5753106, 44.8205979], ""type"": ""Point""}";20;18H2239;59 rue Terrasson bordeaux;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2023-07-03T19:20:14+02:00
+44.8503051, -0.5921111;"{""coordinates"": [-0.5921111, 44.8503051], ""type"": ""Point""}";24;22H4210;63 rue Ernest Renan;MASSIF;Centre ville;True;2022-09-23T16:53:53+02:00;2023-07-04T07:52:48+02:00
+44.83206, -0.58562;"{""coordinates"": [-0.58562, 44.83206], ""type"": ""Point""}";25;1201583;92 rue Mouneyra bordeaux;MAT_EXISTANT;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8188899, -0.57047;"{""coordinates"": [-0.57047, 44.8188899], ""type"": ""Point""}";26;16H1001;23 rue Paul Antin bordeaux;MAT_EXISTANT;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8633539, -0.6187882;"{""coordinates"": [-0.6187882, 44.8633539], ""type"": ""Point""}";28;16H1176;411 av d'Eysines bordeaux;MAT_EXISTANT;Caudéran;False;2022-09-23T16:53:53+02:00;2023-02-07T12:05:15+01:00
+44.82228, -0.5623199;"{""coordinates"": [-0.5623199, 44.82228], ""type"": ""Point""}";29;17H2151;100 rue Pelleport bordeaux;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.84316, -0.5466899;"{""coordinates"": [-0.5466899, 44.84316], ""type"": ""Point""}";31;18H2254;59 Bd Jules Simon bordeaux;MASSIF;La Bastide;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8324999, -0.5837999;"{""coordinates"": [-0.5837999, 44.8324999], ""type"": ""Point""}";34;20H2104;131 rue Belleville bordeaux;MASSIF;Centre ville;True;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8252399, -0.61276;"{""coordinates"": [-0.61276, 44.8252399], ""type"": ""Point""}";35;20H2106;75 rue Eugène Jacquet bordeaux;MASSIF;Saint Augustin - Tauzin - Alphonse Dupeux;True;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8417506, -0.596971;"{""coordinates"": [-0.596971, 44.8417506], ""type"": ""Point""}";36;20H2107;189 rue Georges Mandel;MASSIF;Centre ville;True;2022-09-23T16:53:53+02:00;2023-02-06T18:32:22+01:00
+44.8548171, -0.6241459;"{""coordinates"": [-0.6241459, 44.8548171], ""type"": ""Point""}";41;15Hxxx1;66 rue Stéhelin;MAT_EXISTANT;Caudéran;False;2023-02-07T12:54:31+01:00;2023-02-07T13:00:19+01:00
+44.8387141, -0.6240726;"{""coordinates"": [-0.6240726, 44.8387141], ""type"": ""Point""}";44;22H4237;53 av de Mérignac;MAT_EXISTANT;Caudéran;False;2023-02-07T13:02:05+01:00;2023-07-03T19:32:57+02:00
+44.843818, -0.599448;"{""coordinates"": [-0.599448, 44.843818], ""type"": ""Point""}";47;22Hxxx2;157 Bd Président Wilson;MASSIF;Caudéran;False;2023-02-07T13:13:58+01:00;2023-02-07T13:13:58+01:00
+44.8557212, -0.570666;"{""coordinates"": [-0.570666, 44.8557212], ""type"": ""Point""}";48;22Hxxx9;Cours Balguerie Stuttenberg;MASSIF;Grand Parc;False;2023-02-07T15:13:52+01:00;2023-02-07T15:13:52+01:00
+44.8274176, -0.5941792;"{""coordinates"": [-0.5941792, 44.8274176], ""type"": ""Point""}";50;22Hxxx7;11 ru Cheminade;MASSIF;saint augustin;False;2023-02-07T15:18:46+01:00;2023-02-07T15:18:46+01:00
+44.8203952, -0.5688173;"{""coordinates"": [-0.5688173, 44.8203952], ""type"": ""Point""}";54;22Hxxx5;225 rue Pelleport;MASSIF;nansouty;False;2023-02-07T15:32:22+01:00;2023-02-07T15:32:22+01:00
+44.8650878, -0.5598278;"{""coordinates"": [-0.5598278, 44.8650878], ""type"": ""Point""}";60;17Hxxx1;106 rue Lucien Faure;MASSIF;bordeaux maritime;False;2023-02-07T16:09:51+01:00;2023-02-07T16:09:51+01:00
+44.83179, -0.60784;"{""coordinates"": [-0.60784, 44.83179], ""type"": ""Point""}";1;22H4209;77 rue du grand Maurian bordeaux;MAT_EXISTANT;Saint Augustin - Tauzin - Alphonse Dupeux;False;2022-09-23T16:53:53+02:00;2023-07-03T19:10:34+02:00
+44.8401734, -0.591859;"{""coordinates"": [-0.591859, 44.8401734], ""type"": ""Point""}";3;16H2012;20 rue Brizard;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2023-02-06T18:32:22+01:00
+44.843493, -0.5974607;"{""coordinates"": [-0.5974607, 44.843493], ""type"": ""Point""}";4;16H2044;39 rue Marseille bordeaux;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2023-02-06T18:32:22+01:00
+44.824737, -0.5848063;"{""coordinates"": [-0.5848063, 44.824737], ""type"": ""Point""}";7;19H2256;70 rue de Ségur bordeaux;MAT_EXISTANT;Centre ville;False;2022-09-23T16:53:53+02:00;2023-02-07T15:36:01+01:00
+44.8348559, -0.5766428;"{""coordinates"": [-0.5766428, 44.8348559], ""type"": ""Point""}";8;20H2105;24 rue de Cursol;MASSIF;Centre ville;True;2022-09-23T16:53:53+02:00;2023-02-06T18:32:22+01:00
+44.86088, -0.62871;"{""coordinates"": [-0.62871, 44.86088], ""type"": ""Point""}";9;20H2108;30 Rue de la Cage Verte bordeaux;MAT_EXISTANT;Caudéran;True;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8513009, -0.5859459;"{""coordinates"": [-0.5859459, 44.8513009], ""type"": ""Point""}";11;21H4154;75 Rue Johnston;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.82446, -0.5511099;"{""coordinates"": [-0.5511099, 44.82446], ""type"": ""Point""}";13;22H4211;28 pl Ferdinand Buisson bordeaux;MAT_EXISTANT;Centre ville;False;2022-09-23T16:53:53+02:00;2023-07-03T19:11:25+02:00
+44.82909, -0.58525;"{""coordinates"": [-0.58525, 44.82909], ""type"": ""Point""}";14;16H2033;27 rue de Landiras bordeaux;MAT_EXISTANT;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.82968, -0.57646;"{""coordinates"": [-0.57646, 44.82968], ""type"": ""Point""}";21;19H2255;32 rue Millière bordeaux;MASSIF;Centre ville;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.85999, -0.6098;"{""coordinates"": [-0.6098, 44.85999], ""type"": ""Point""}";27;16H1175;168 av d'Eysines bordeaux;MAT_EXISTANT;Caudéran;False;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8557967, -0.6203421;"{""coordinates"": [-0.6203421, 44.8557967], ""type"": ""Point""}";33;20H2103;24 rue Gabriel Léglise bordeaux;MAT_EXISTANT;Caudéran;True;2022-09-23T16:53:53+02:00;2023-02-07T13:00:19+01:00
+44.84039, -0.5563999;"{""coordinates"": [-0.5563999, 44.84039], ""type"": ""Point""}";37;20H2112;50 Rue de la Benauge bordeaux;MASSIF;La Bastide;True;2022-09-23T16:53:53+02:00;2022-09-23T17:05:04+02:00
+44.8397867, -0.6042881;"{""coordinates"": [-0.6042881, 44.8397867], ""type"": ""Point""}";43;22H4238;90 av de la République;MASSIF;Caudéran;False;2023-02-07T12:58:42+01:00;2023-07-03T19:32:26+02:00
+44.8354198, -0.6028048;"{""coordinates"": [-0.6028048, 44.8354198], ""type"": ""Point""}";51;22H4236;28 allée des Pins;MAT_EXISTANT;saint augustin;False;2023-02-07T15:22:28+01:00;2023-07-03T19:31:15+02:00
+44.8154813, -0.5690579;"{""coordinates"": [-0.5690579, 44.8154813], ""type"": ""Point""}";55;22Hxxx4;48 rue d'Aupérie;MAT_EXISTANT;Nansouty;False;2023-02-07T15:33:25+01:00;2023-02-07T15:33:25+01:00
