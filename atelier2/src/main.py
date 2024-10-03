@@ -22,14 +22,14 @@ for url in urls:
             if new_response.status_code == 200:
                 new_soup = BeautifulSoup(new_response.text, 'html.parser')
                 
-                # Utilisez new_soup pour extraire les données de la nouvelle page
-                data = new_soup.find_all(class_='SitMap-content')
-                if data:
-                    for item in data:
-                        # print(f'Données de {full_url}: {item.get_text(strip=True)}')
-                        print(f'{item.get_text(strip=True)}')
+                # Extraire le contenu de l'élément <address>
+                address = new_soup.find('address')
+                if address:
+                    # Récupérer tout le texte dans <address> (y compris les <br> et autres balises)
+                    address_text = address.get_text(separator=" ", strip=True)
+                    print(f"Adresse complète : {address_text}")
                 else:
-                    print(f'Aucune donnée trouvée sur {full_url}')
+                    print(f'Aucune adresse trouvée sur {full_url}')
             else:
                 print(f"Erreur lors de la récupération de {full_url}: {new_response.status_code}")
     else:
