@@ -1,9 +1,10 @@
 import requests
+import duckdb
 from bs4 import BeautifulSoup
-
 from scripts.urls import urls
+from urllib.parse import urlparse
 
-# url = 'https://www.bordeaux-tourisme.com/ville-patrimoine/musees.html'
+db_file = "datalake.db"
 
 for url in urls:
     response = requests.get(url)
@@ -15,6 +16,11 @@ for url in urls:
         links = div.find_all('a') if div else []
 
         for link in links:
+
+            path = urlparse(url).path
+            # Séparer le chemin en segments et prendre le premier mot utile
+            title = path.split('/')[-1].replace('.html', '').replace('-', '_')
+
             href = link.get('href')
             full_url = href if href.startswith('http') else url + href
 
@@ -28,6 +34,19 @@ for url in urls:
                     # Récupérer tout le texte dans <address> (y compris les <br> et autres balises)
                     address_text = address.get_text(separator=" ", strip=True)
                     print(f"Adresse complète : {address_text}")
+
+                    with duckdb.connect(db_file) as conn:
+                        conn.execute(f"""
+                            CREATE TABLE IF NOT EXISTS "{title}" (
+                                url TEXT,
+                                address TEXT
+                            );
+                        """)
+
+                        # Insertion de l'URL et de l'adresse dans la table
+                        conn.execute(f"""
+                            INSERT INTO "{title}" (url, address) VALUES (?, ?)
+                        """, (full_url, address_text))
                 else:
                     print(f'Aucune adresse trouvée sur {full_url}')
             else:
