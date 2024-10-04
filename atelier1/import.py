@@ -13,7 +13,7 @@ for file in os.listdir('sources') :
     with duckdb.connect(db_file) as conn :
 
         try:
-            conn.execute(f"""CREATE TABLE {table_name} AS SELECT * FROM read_csv_auto('{csv_file}')""")
+            conn.execute(f"""CREATE TABLE IF NOT EXISTS {table_name} AS SELECT * FROM read_csv_auto('{csv_file}')""")
             
             result = conn.execute(f"SELECT COUNT(*) FROM {table_name}").fetchone()
             print("\033[32m" + f"Nombre de lignes insérées dans {table_name}: {result[0]}" + "\033[0m")
