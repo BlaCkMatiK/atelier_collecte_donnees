@@ -1,3 +1,5 @@
 duckdb
 requests
 beautifulsoup4
+dbt-core
+dbt-duckdb
