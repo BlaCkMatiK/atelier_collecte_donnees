@@ -19,7 +19,7 @@ directement sur le site [Bordeaux Tourisme](https://www.bordeaux-tourisme.com) (
 
 ### Étape 2 - Structure du projet
 
-Le fichier `src/main.py` contient le script principal. Il récupère une liste d'urls présente dans le fichier `src/scripts/urls.py`.
+Le fichier `ingest/main.py` contient le script principal. Il récupère une liste d'urls présente dans le fichier `ingest/urls.py`.
 
 On écrit ensuite dans la base de données `datalake.db` présenta à la racine de l'atelier général.
 
