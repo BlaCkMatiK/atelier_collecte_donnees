@@ -8,4 +8,18 @@ Dans la continuité des deux précédents ateliers, vous amorcer une préparatio
 consolidation, ...) selon une architecture en médaillon avec dbt. Vous pouvez vous appuyer sur les commits de
 l'ébauche de projet <https://github.com/labasse/dbt-park-bx>.
 
-### Étape 1 - Isolation des données brutes
+### Étape 1 - Lancement du projet
+```bash
+cd transform
+dbt run
+```
+
+### Étape 2 - Création du schéma
+```bash
+dbt docs build
+```
+
+### Étape 3 - Lancement du serveur en localhost
+```bash
+dbt docs serve
+```

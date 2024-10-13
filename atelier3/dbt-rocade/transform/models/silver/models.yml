@@ -1,0 +1,18 @@
+models:
+  - name: pont_chaban
+    description: "État du pont Chaban"
+    columns:
+      - name: ta_pont_chaban_id
+        description: "Pont Chaban id"
+        data_tests:
+          - not_null
+          - unique
+  - name: travaux
+    description: "Travaux en temps réel"
+    columns:
+      - name: ta_travaux_id
+        description: "Travaux id from source"
+        data_tests:
+          - not_null
+          - unique
+          

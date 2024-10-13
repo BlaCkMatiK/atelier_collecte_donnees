@@ -2,4 +2,5 @@ sources:
   - name: raw
     schema: raw
     tables:
-      - name: st_travaux_p
+      - name: travaux_old
+      - name: pont_chaban_old
